@@ -7,5 +7,5 @@ Wbijać tam!!!
 ## Strona jest podzielona na jedną część!
 Strona jest podzielowa na ...
 
-##Strajk
+## Strajk
 Strajkujemy o stop 5g 
