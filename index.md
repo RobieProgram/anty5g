@@ -1,12 +1,8 @@
 ## ANTY 5G TYPIE 
 
-You can use the [editor on GitHub](https://github.com/RobieProgram/anty5g/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Pomysł na stronie inspiruje się stroną: https://wolnoscod5g.pl
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Wbijać tam!!!
 
 
 
